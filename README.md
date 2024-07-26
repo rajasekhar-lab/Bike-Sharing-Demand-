@@ -1,23 +1,23 @@
 # Bike-Sharing-Demand
-Overview
+Overview:-
 
 This project aims to build a multiple linear regression model to predict the demand for shared bikes. The model helps in understanding the factors affecting bike rental demand and assists the company in strategizing to meet customer needs and increase revenue.
 
-Business Problem
+Business Problem:-
 
 BoomBikes, a US-based bike-sharing provider, has experienced a decline in revenues due to the COVID-19 pandemic. The company seeks to understand the factors influencing bike rental demand to prepare for the post-pandemic market. This model will be used to predict bike rental demand based on various factors and help the company in decision-making.
 
-Dataset
+Dataset:-
 
 The dataset contains daily records of bike rentals along with various features such as weather conditions, season, holiday, and more. The target variable is cnt, which represents the total number of bike rentals.
 
-Project Structure
+Project Structure:-
 
 data/day.csv: The dataset used for building the model.
 notebooks/Bike_Sharing_Demand_Prediction.ipynb: Jupyter notebook containing the code for data exploration, preparation, model building, and evaluation.
 README.md: This file, providing an overview of the project.
 
-Steps
+Steps:-
 1. Data Loading and Understanding
 Load the dataset and display the first few rows, information, and summary statistics.
 2. Data Visualization
